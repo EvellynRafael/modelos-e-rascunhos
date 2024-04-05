@@ -1,7 +1,3 @@
-# modelo-router-react-rascunho
+# Modelos e Rascunhos
 
-App.JS -> Modelo de como a estrutura do Router deve ficar
-
-LinkTo.JS -> Utilização para incluir em uma barra de navegação. Aproveitando para utilizar junto do  Material UI
-
---criar pastas depois para organizar
+Router-React -> Rascunho para utilizar o React Router em qualquer tipo de aplicação que possa utilizar anvegação.
