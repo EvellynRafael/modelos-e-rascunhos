@@ -4,10 +4,12 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import Users './pages/Users';
+import NavBar from './components/NavBar';
 
 export default function App (){
   return (
     <BrowserRouter>
+    <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
